@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDCD3C8D-D65B-4DB2-9DFA-CD52BDC58F53}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BODEGA.My.MyApplication</StartupObject>
+    <RootNamespace>BODEGA</RootNamespace>
+    <AssemblyName>BODEGA</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Luis\Downloads\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>BODEGA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>BODEGA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7CDDD400FBE08DFCBEF520AC155FE212E22176F2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BODEGA_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.OleDb" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Net" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="screens\00_general\Debug_Aplicacion.Designer.vb">
+      <DependentUpon>Debug_Aplicacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\00_general\Debug_Aplicacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\50_Catalogo_Vinos\Folleto_Vinos.Designer.vb">
+      <DependentUpon>Folleto_Vinos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\50_Catalogo_Vinos\Folleto_Vinos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\50_Catalogo_Vinos\Localizacion_vino.Designer.vb">
+      <DependentUpon>Localizacion_vino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\50_Catalogo_Vinos\Localizacion_vino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Auxiliar.Designer.vb">
+      <DependentUpon>Info_Detalle_Zona_Auxiliar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Auxiliar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Despensa.Designer.vb">
+      <DependentUpon>Info_Detalle_Zona_Despensa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Despensa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Lenera.Designer.vb">
+      <DependentUpon>Info_Detalle_Zona_Lenera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Lenera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Principal.Designer.vb">
+      <DependentUpon>Info_Detalle_Zona_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_Zona_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Listado_Vinos.Designer.vb">
+      <DependentUpon>Info_Listado_Vinos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Listado_Vinos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\DO\Editor_DO_Insertar.Designer.vb">
+      <DependentUpon>Editor_DO_Insertar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\DO\Editor_DO_Insertar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\DO\Editor_DO_Modificar.Designer.vb">
+      <DependentUpon>Editor_DO_Modificar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\DO\Editor_DO_Modificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\DO\Editor_DO_Principal.Designer.vb">
+      <DependentUpon>Editor_DO_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\DO\Editor_DO_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Huecos\Editor_Huecos_Modificar.Designer.vb">
+      <DependentUpon>Editor_Huecos_Modificar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Huecos\Editor_Huecos_Modificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Huecos\Editor_Huecos_Principal.Designer.vb">
+      <DependentUpon>Editor_Huecos_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Huecos\Editor_Huecos_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Menu_Edicion.Designer.vb">
+      <DependentUpon>Menu_Edicion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Menu_Edicion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\98_Contadores\Totalizadores.Designer.vb">
+      <DependentUpon>Totalizadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\98_Contadores\Totalizadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\05_Frontal_Principal_Auxiliares\Bodega_Huecos_Principal_Aux.Designer.vb">
+      <DependentUpon>Bodega_Huecos_Principal_Aux.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\05_Frontal_Principal_Auxiliares\Bodega_Huecos_Principal_Aux.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\10_Frontal_Despensa\Bodega_Huecos_Despensa.Designer.vb">
+      <DependentUpon>Bodega_Huecos_Despensa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\10_Frontal_Despensa\Bodega_Huecos_Despensa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\15_Frontal_Leñera\Bodega_Huecos_Lenera.Designer.vb">
+      <DependentUpon>Bodega_Huecos_Lenera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\15_Frontal_Leñera\Bodega_Huecos_Lenera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\05_Frontal_Principal\Bodega_Huecos_Principal.Designer.vb">
+      <DependentUpon>Bodega_Huecos_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\05_Frontal_Principal\Bodega_Huecos_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Vinos\Editor_Vinos_Insertar.Designer.vb">
+      <DependentUpon>Editor_Vinos_Insertar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Vinos\Editor_Vinos_Insertar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Vinos\Editor_Vinos_Modificar.Designer.vb">
+      <DependentUpon>Editor_Vinos_Modificar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Vinos\Editor_Vinos_Modificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Vinos\Editor_Vinos_Principal.Designer.vb">
+      <DependentUpon>Editor_Vinos_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Vinos\Editor_Vinos_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Zonas\Editor_Zonas_Insertar.Designer.vb">
+      <DependentUpon>Editor_Zonas_Insertar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Zonas\Editor_Zonas_Insertar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Zonas\Editor_Zonas_Modificar.Designer.vb">
+      <DependentUpon>Editor_Zonas_Modificar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Zonas\Editor_Zonas_Modificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Zonas\Editor_Zonas_Principal.Designer.vb">
+      <DependentUpon>Editor_Zonas_Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\99_Edicion\Zonas\Editor_Zonas_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BD_Bodega_V1DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BD_Bodega_V1DataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="modules\Conexion_Access.vb" />
+    <Compile Include="screens\90_PopUps\Info_Detalle.Designer.vb">
+      <DependentUpon>Info_Detalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_DO.Designer.vb">
+      <DependentUpon>Info_Detalle_DO.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\90_PopUps\Info_Detalle_DO.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\00_general\Menu_Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\00_general\Menu_Principal.Designer.vb">
+      <DependentUpon>Menu_Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="screens\00_general\Loading_inicio.Designer.vb">
+      <DependentUpon>Loading_inicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="screens\00_general\Loading_inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modules\Leyenda.vb" />
+    <Compile Include="modules\Module_Bodega.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="screens\00_general\Debug_Aplicacion.resx">
+      <DependentUpon>Debug_Aplicacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\50_Catalogo_Vinos\Folleto_Vinos.resx">
+      <DependentUpon>Folleto_Vinos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\50_Catalogo_Vinos\Localizacion_vino.resx">
+      <DependentUpon>Localizacion_vino.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Detalle_Zona_Auxiliar.resx">
+      <DependentUpon>Info_Detalle_Zona_Auxiliar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Detalle_Zona_Despensa.resx">
+      <DependentUpon>Info_Detalle_Zona_Despensa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Detalle_Zona_Lenera.resx">
+      <DependentUpon>Info_Detalle_Zona_Lenera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Detalle_Zona_Principal.resx">
+      <DependentUpon>Info_Detalle_Zona_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Listado_Vinos.resx">
+      <DependentUpon>Info_Listado_Vinos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\DO\Editor_DO_Insertar.resx">
+      <DependentUpon>Editor_DO_Insertar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\DO\Editor_DO_Modificar.resx">
+      <DependentUpon>Editor_DO_Modificar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\DO\Editor_DO_Principal.resx">
+      <DependentUpon>Editor_DO_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Huecos\Editor_Huecos_Modificar.resx">
+      <DependentUpon>Editor_Huecos_Modificar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Huecos\Editor_Huecos_Principal.resx">
+      <DependentUpon>Editor_Huecos_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Menu_Edicion.resx">
+      <DependentUpon>Menu_Edicion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\98_Contadores\Totalizadores.resx">
+      <DependentUpon>Totalizadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\05_Frontal_Principal\Bodega_Huecos_Principal.resx">
+      <DependentUpon>Bodega_Huecos_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\05_Frontal_Principal_Auxiliares\Bodega_Huecos_Principal_Aux.resx">
+      <DependentUpon>Bodega_Huecos_Principal_Aux.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\10_Frontal_Despensa\Bodega_Huecos_Despensa.resx">
+      <DependentUpon>Bodega_Huecos_Despensa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\15_Frontal_Leñera\Bodega_Huecos_Lenera.resx">
+      <DependentUpon>Bodega_Huecos_Lenera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Detalle.resx">
+      <DependentUpon>Info_Detalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\90_PopUps\Info_Detalle_DO.resx">
+      <DependentUpon>Info_Detalle_DO.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\00_general\Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\00_general\Loading_inicio.resx">
+      <DependentUpon>Loading_inicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Vinos\Editor_Vinos_Insertar.resx">
+      <DependentUpon>Editor_Vinos_Insertar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Vinos\Editor_Vinos_Modificar.resx">
+      <DependentUpon>Editor_Vinos_Modificar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Vinos\Editor_Vinos_Principal.resx">
+      <DependentUpon>Editor_Vinos_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Zonas\Editor_Zonas_Modificar.resx">
+      <DependentUpon>Editor_Zonas_Modificar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="screens\99_Edicion\Zonas\Editor_Zonas_Principal.resx">
+      <DependentUpon>Editor_Zonas_Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BD_Bodega_V1DataSet.xsc">
+      <DependentUpon>BD_Bodega_V1DataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="BD_Bodega_V1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BD_Bodega_V1DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="BD_Bodega_V1DataSet.xss">
+      <DependentUpon>BD_Bodega_V1DataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="BODEGA_ClaveTemporal.pfx" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MSDAOSP">
+      <Guid>{E0E270C2-C0BE-11D0-8FE4-00A0C90A6341}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>1033</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSDASC">
+      <Guid>{2206CEB0-19C1-11D1-89E0-00C04FD7A829}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BD_Bodega_V1.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\iconos\zonas_almacenamiento.png" />
+    <None Include="Resources\Fondos\principal\Principal_huecos.png" />
+    <None Include="Resources\Fondos\despensa\Despensa_fondo.jpg" />
+    <None Include="Resources\Fondos\auxiliar\Fondo_Auxiliar.jpg" />
+    <None Include="Resources\Fondos\lenera\Fondo_lenera.png" />
+    <None Include="Resources\iconos\alerta.png" />
+    <None Include="Resources\audios\Close.wav" />
+    <None Include="Resources\audios\Windows_Notify.wav" />
+    <None Include="Resources\iconos\base-de-datos.png" />
+    <None Include="Resources\iconos\bodega_huecos.png" />
+    <None Include="Resources\iconos\apagar.png" />
+    <None Include="Resources\Fondos\popups\vina-que-crece-cosecha.jpg" />
+    <None Include="Resources\Fondos\popups\desfile-de-papel.png" />
+    <None Include="Resources\iconos\backup.png" />
+    <None Include="Resources\iconos\basura.png" />
+    <None Include="Resources\Fondos\popups\pngwing_cartes.com.png" />
+    <None Include="Resources\Fondos\popups\barril-de-vino.png" />
+    <None Include="Resources\iconos\administrador.png" />
+    <None Include="Resources\Fondos\popups\Daco_986294.png" />
+    <None Include="Resources\Fondos\popups\pngwing_fondo_uvas.com.png" />
+    <None Include="Resources\Fondos\popups\kisspng-iphone-samsung-galaxy-computer-icons-smartphone-te-cellphone-5ac2abe3e1dbc1.3790372015227074279251 %281%29.png" />
+    <None Include="Resources\Fondos\popups\pngwing_villa.png" />
+    <None Include="Resources\Fondos\popups\pngwing_pergamino.com.png" />
+    <Content Include="Resources\iconos\borrar.png" />
+    <None Include="Resources\iconos\catalogo_vino.png" />
+    <None Include="Resources\iconos\engranaje.png" />
+    <None Include="Resources\iconos\encender.png" />
+    <None Include="Resources\iconos\champan.png" />
+    <None Include="Resources\iconos\botella-de-vino.png" />
+    <None Include="Resources\iconos\do_RIOJA.jpg" />
+    <None Include="Resources\iconos\do_ribera.jpg" />
+    <None Include="Resources\iconos\do_valdepenas.jpg" />
+    <Content Include="Resources\iconos\folder_wine_9766.ico" />
+    <None Include="Resources\iconos\Icono_vinos_1.png" />
+    <Content Include="Resources\iconos\info.png" />
+    <None Include="Resources\iconos\Logo-pdo_es.png" />
+    <None Include="Resources\iconos\kisspng-calculator-numeric-keypad-vector-calculator-5a6d44a8b13912.8514482915171104407259.png" />
+    <None Include="Resources\iconos\marcador-de-posicion.png" />
+    <None Include="Resources\iconos\mapa.png" />
+    <Content Include="Resources\iconos\poder.png" />
+    <None Include="Resources\iconos\refresh.png" />
+    <None Include="Resources\iconos\pruebas.png" />
+    <Content Include="Resources\iconos\regreso.png" />
+    <None Include="Resources\iconos\reinicio.png" />
+    <None Include="Resources\iconos\vino-tinto.png" />
+    <None Include="Resources\iconos\vino_tinto_png.png" />
+    <None Include="Resources\iconos\vino_rosado.png" />
+    <None Include="Resources\iconos\visualizacion-de-datos.png" />
+    <Content Include="Resources\iconos\winebottlebeverage_vino_botella_4001.ico" />
+    <Content Include="Resources\iconos\resized\circulo_amarillo.png" />
+    <Content Include="Resources\iconos\resized\circulo_azul.png" />
+    <Content Include="Resources\iconos\resized\circulo_blanco.png" />
+    <Content Include="Resources\iconos\resized\circulo_gris.png" />
+    <Content Include="Resources\iconos\resized\circulo_marron.png" />
+    <Content Include="Resources\iconos\resized\circulo_negro.png" />
+    <Content Include="Resources\iconos\resized\circulo_rojo.png" />
+    <Content Include="Resources\iconos\resized\circulo_verde.png" />
+    <Content Include="Resources\iconos\resized\circulo_violeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+    <Folder Include="Resources\Fondos\portada\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

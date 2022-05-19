@@ -1,0 +1,16 @@
+V10 - cambios introducidos 16/05/2022
+
+*nuevos iconos
+*nuevo menu principal
+*nuevo menu modo editor
+*modificar la ruta de busqueda para que consulte la unidad de disco de instalador y no siempre el C:/ fijo
+*modificación de la visibilidad de los huecos vacios - puesto en version DimGray
+*cambio en la logica para la visibilidad de los paneles de leyenda y filtros para evitar refresco al cambiar filtro
+*corrección de fallos en la activacion de los filtros DO y Coleccion en Huecos Lenera
+*añadido carpeta con dependencias (instalador AccessData engine) sin esto no funciona la aplicacion
+
+*creacion de archivo de ayuda chm
+
+*ir cambiando algunos comentarios y nombres de variables en ingles
+*opcion de crear copia de seguridad de la base de datos
+*opcion para limpiar el directorio de copias de seguridad
