@@ -1,4 +1,4 @@
-V10 - cambios introducidos 16/05/2022
+V10 - cambios introducidos 19/05/2022
 
 *nuevos iconos
 *nuevo menu principal
@@ -8,9 +8,15 @@ V10 - cambios introducidos 16/05/2022
 *cambio en la logica para la visibilidad de los paneles de leyenda y filtros para evitar refresco al cambiar filtro
 *corrección de fallos en la activacion de los filtros DO y Coleccion en Huecos Lenera
 *añadido carpeta con dependencias (instalador AccessData engine) sin esto no funciona la aplicacion
-
 *creacion de archivo de ayuda chm
-
 *ir cambiando algunos comentarios y nombres de variables en ingles
 *opcion de crear copia de seguridad de la base de datos
 *opcion para limpiar el directorio de copias de seguridad
+*incorporación de boton para visualizar foto de cada zona
+*creacion de directorio Git para guardar las copias y tener un versionado
+*corregido problema con la direccion para la base de datos en la version del instalador
+*cambio en el fondo de las pantallas de Info_Detalles_Zonas
+
+
+*COSAS PENDIENTES
+*Mostrar en un comboBox 2 elementos - para la seleccion del Vino

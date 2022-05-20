@@ -1,13 +1,21 @@
 ﻿Public Class Info_Detalle_Zona_Despensa
     Private Sub Info_Detalle_Zona_Despensa_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim cadena_foto As String
 
-        cadena_foto = Ruta_zonas & "zona_despensa_1.jpg"
+        Dim cadena_foto_1 As String
+        cadena_foto_1 = Ruta_zonas & "zona_despensa_1.jpg"
 
-        ''Configuracion de la imagen del logo de la denonimacion
-
-        PictureBox_Zone.Load(cadena_foto)
+        'Carga datos de la foto
+        PictureBox_Zone.Load(cadena_foto_1)
         PictureBox_Zone.SizeMode = PictureBoxSizeMode.CenterImage
         PictureBox_Zone.SizeMode = PictureBoxSizeMode.StretchImage
+
+
+        Dim cadena_foto_2 As String
+        cadena_foto_2 = Ruta_zonas & "zona_despensa_2.jpg"
+
+        'Carga datos de la foto
+        PictureBox_Zone_2.Load(cadena_foto_2)
+        PictureBox_Zone_2.SizeMode = PictureBoxSizeMode.CenterImage
+        PictureBox_Zone_2.SizeMode = PictureBoxSizeMode.StretchImage
     End Sub
 End Class

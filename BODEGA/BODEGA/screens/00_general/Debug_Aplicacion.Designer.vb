@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Debug_Aplicacion
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Debug_Aplicacion
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Debug_Aplicacion))
@@ -38,6 +38,13 @@ Partial Class Debug_Aplicacion
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Info_carga = New System.Windows.Forms.Label()
         Me.Panel_RUTAS = New System.Windows.Forms.Panel()
+        Me.Label22 = New System.Windows.Forms.Label()
+        Me.Label20 = New System.Windows.Forms.Label()
+        Me.Label19 = New System.Windows.Forms.Label()
+        Me.Label18 = New System.Windows.Forms.Label()
+        Me.Label17 = New System.Windows.Forms.Label()
+        Me.Label16 = New System.Windows.Forms.Label()
+        Me.l_unidad_disco = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
@@ -51,14 +58,8 @@ Partial Class Debug_Aplicacion
         Me.l_date = New System.Windows.Forms.Label()
         Me.b_BackUp = New System.Windows.Forms.Button()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
-        Me.Panel_bd = New System.Windows.Forms.Panel()
-        Me.Label20 = New System.Windows.Forms.Label()
-        Me.Label19 = New System.Windows.Forms.Label()
-        Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.l_unidad_disco = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
+        Me.Panel_bd = New System.Windows.Forms.Panel()
         Me.Panel1.SuspendLayout()
         Me.Panel_RUTAS.SuspendLayout()
         Me.Panel3.SuspendLayout()
@@ -220,6 +221,7 @@ Partial Class Debug_Aplicacion
         'Panel_RUTAS
         '
         Me.Panel_RUTAS.BackColor = System.Drawing.SystemColors.ButtonShadow
+        Me.Panel_RUTAS.Controls.Add(Me.Label22)
         Me.Panel_RUTAS.Controls.Add(Me.Label20)
         Me.Panel_RUTAS.Controls.Add(Me.Label19)
         Me.Panel_RUTAS.Controls.Add(Me.Label18)
@@ -244,6 +246,70 @@ Partial Class Debug_Aplicacion
         Me.Panel_RUTAS.Name = "Panel_RUTAS"
         Me.Panel_RUTAS.Size = New System.Drawing.Size(785, 422)
         Me.Panel_RUTAS.TabIndex = 44
+        '
+        'Label22
+        '
+        Me.Label22.AutoSize = True
+        Me.Label22.Location = New System.Drawing.Point(11, 231)
+        Me.Label22.Name = "Label22"
+        Me.Label22.Size = New System.Drawing.Size(63, 13)
+        Me.Label22.TabIndex = 58
+        Me.Label22.Text = "data source"
+        '
+        'Label20
+        '
+        Me.Label20.AutoSize = True
+        Me.Label20.Location = New System.Drawing.Point(11, 209)
+        Me.Label20.Name = "Label20"
+        Me.Label20.Size = New System.Drawing.Size(67, 13)
+        Me.Label20.TabIndex = 57
+        Me.Label20.Text = "unidad disco"
+        '
+        'Label19
+        '
+        Me.Label19.AutoSize = True
+        Me.Label19.Location = New System.Drawing.Point(84, 297)
+        Me.Label19.Name = "Label19"
+        Me.Label19.Size = New System.Drawing.Size(45, 13)
+        Me.Label19.TabIndex = 56
+        Me.Label19.Text = "Label16"
+        '
+        'Label18
+        '
+        Me.Label18.AutoSize = True
+        Me.Label18.Location = New System.Drawing.Point(84, 275)
+        Me.Label18.Name = "Label18"
+        Me.Label18.Size = New System.Drawing.Size(45, 13)
+        Me.Label18.TabIndex = 55
+        Me.Label18.Text = "Label16"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.Location = New System.Drawing.Point(84, 253)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(45, 13)
+        Me.Label17.TabIndex = 54
+        Me.Label17.Text = "Label16"
+        '
+        'Label16
+        '
+        Me.Label16.AutoSize = True
+        Me.Label16.Location = New System.Drawing.Point(84, 231)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(45, 13)
+        Me.Label16.TabIndex = 53
+        Me.Label16.Text = "Label16"
+        '
+        'l_unidad_disco
+        '
+        Me.l_unidad_disco.AutoSize = True
+        Me.l_unidad_disco.Location = New System.Drawing.Point(84, 209)
+        Me.l_unidad_disco.Name = "l_unidad_disco"
+        Me.l_unidad_disco.Size = New System.Drawing.Size(45, 13)
+        Me.l_unidad_disco.TabIndex = 52
+        Me.l_unidad_disco.Text = "Label16"
+        Me.ToolTip1.SetToolTip(Me.l_unidad_disco, "Informacion sobre la unidad de disco utilizada")
         '
         'Label15
         '
@@ -384,70 +450,6 @@ Partial Class Debug_Aplicacion
         Me.ToolTip1.SetToolTip(Me.b_BackUp, "Pulsar para crear una copia de seguridad de la BD")
         Me.b_BackUp.UseVisualStyleBackColor = True
         '
-        'Panel_bd
-        '
-        Me.Panel_bd.Controls.Add(Me.Panel1)
-        Me.Panel_bd.Controls.Add(Me.l_pruebas)
-        Me.Panel_bd.Location = New System.Drawing.Point(22, 297)
-        Me.Panel_bd.Name = "Panel_bd"
-        Me.Panel_bd.Size = New System.Drawing.Size(321, 145)
-        Me.Panel_bd.TabIndex = 52
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Location = New System.Drawing.Point(11, 209)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(67, 13)
-        Me.Label20.TabIndex = 57
-        Me.Label20.Text = "unidad disco"
-        '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.Location = New System.Drawing.Point(84, 297)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(45, 13)
-        Me.Label19.TabIndex = 56
-        Me.Label19.Text = "Label16"
-        '
-        'Label18
-        '
-        Me.Label18.AutoSize = True
-        Me.Label18.Location = New System.Drawing.Point(84, 275)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(45, 13)
-        Me.Label18.TabIndex = 55
-        Me.Label18.Text = "Label16"
-        '
-        'Label17
-        '
-        Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(84, 253)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(45, 13)
-        Me.Label17.TabIndex = 54
-        Me.Label17.Text = "Label16"
-        '
-        'Label16
-        '
-        Me.Label16.AutoSize = True
-        Me.Label16.Location = New System.Drawing.Point(84, 231)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(45, 13)
-        Me.Label16.TabIndex = 53
-        Me.Label16.Text = "Label16"
-        '
-        'l_unidad_disco
-        '
-        Me.l_unidad_disco.AutoSize = True
-        Me.l_unidad_disco.Location = New System.Drawing.Point(84, 209)
-        Me.l_unidad_disco.Name = "l_unidad_disco"
-        Me.l_unidad_disco.Size = New System.Drawing.Size(45, 13)
-        Me.l_unidad_disco.TabIndex = 52
-        Me.l_unidad_disco.Text = "Label16"
-        Me.ToolTip1.SetToolTip(Me.l_unidad_disco, "Informacion sobre la unidad de disco utilizada")
-        '
         'Button2
         '
         Me.Button2.BackColor = System.Drawing.Color.Transparent
@@ -464,6 +466,15 @@ Partial Class Debug_Aplicacion
         Me.Button2.TabIndex = 53
         Me.ToolTip1.SetToolTip(Me.Button2, "Pulsar para mostrar informacion para depuracion")
         Me.Button2.UseVisualStyleBackColor = False
+        '
+        'Panel_bd
+        '
+        Me.Panel_bd.Controls.Add(Me.Panel1)
+        Me.Panel_bd.Controls.Add(Me.l_pruebas)
+        Me.Panel_bd.Location = New System.Drawing.Point(22, 297)
+        Me.Panel_bd.Name = "Panel_bd"
+        Me.Panel_bd.Size = New System.Drawing.Size(321, 145)
+        Me.Panel_bd.TabIndex = 52
         '
         'Debug_Aplicacion
         '
@@ -523,4 +534,5 @@ Partial Class Debug_Aplicacion
     Friend WithEvents l_unidad_disco As Label
     Friend WithEvents Panel_bd As Panel
     Friend WithEvents Button2 As Button
+    Friend WithEvents Label22 As Label
 End Class

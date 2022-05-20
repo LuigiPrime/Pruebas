@@ -25,6 +25,9 @@
         Label6.Text = Ruta_DO
         Label7.Text = Ruta_Logos_DO
         Label15.Text = URL_help_document
+        Label16.Text = My.Settings.BD_Bodega_V1ConnectionString
+        Label17.Text = Conection.DataSource
+
 
         If modo_pruebas Then
             l_pruebas.Visible = True
@@ -107,7 +110,6 @@
             l_date.Visible = True
         End If
 
-        'Me.Dispose()
 
     End Sub
 
@@ -115,8 +117,9 @@
         Panel_bd.Visible = True
         Panel_RUTAS.Visible = True
 
-
         Me.Size = New System.Drawing.Size(1120, 492) ' size of screen
 
     End Sub
+
+
 End Class

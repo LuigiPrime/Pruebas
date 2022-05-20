@@ -1,6 +1,9 @@
 ﻿Public Class Folleto_Vinos
     Private Sub Folleto_Vinos_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
+        'ocultar el boton para sacar el listado... de momento no es muy util
+        Button2.Visible = False
+
         b_CerrarListado.Visible = False
 
         '***************************************************

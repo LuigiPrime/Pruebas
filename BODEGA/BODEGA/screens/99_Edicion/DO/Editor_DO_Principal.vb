@@ -24,7 +24,6 @@
 
     Private Sub show_register()
 
-
         'Me.Size = New Size(884, 583)
 
         TextBox1.Text = Denominaciones_OrigenDataGridView.CurrentRow.Cells(0).Value.ToString

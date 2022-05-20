@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Editor_Huecos_Modificar
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Editor_Huecos_Modificar
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
@@ -34,10 +34,12 @@ Partial Class Editor_Huecos_Modificar
         Me.Insert_Comentario_hueco = New System.Windows.Forms.TextBox()
         Me.Insert_Columna = New System.Windows.Forms.TextBox()
         Me.Insert_Fila = New System.Windows.Forms.TextBox()
+        Me.b_showCatalog = New System.Windows.Forms.Button()
         Me.DataGridView1 = New System.Windows.Forms.DataGridView()
         Me.Show_ID = New System.Windows.Forms.TextBox()
         Me.b_SaveItem = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.VinosBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.ConsumoRadioButton = New System.Windows.Forms.RadioButton()
         Me.Label13 = New System.Windows.Forms.Label()
         Me.Label12 = New System.Windows.Forms.Label()
@@ -48,7 +50,6 @@ Partial Class Editor_Huecos_Modificar
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.ComboBox_ID_Vino = New System.Windows.Forms.ComboBox()
-        Me.VinosBindingSource = New System.Windows.Forms.BindingSource(Me.components)
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Insert_ID_Vino = New System.Windows.Forms.TextBox()
         Me.PanelVino = New System.Windows.Forms.Panel()
@@ -73,8 +74,8 @@ Partial Class Editor_Huecos_Modificar
         CType(Me.BD_Bodega_V1DataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
-        CType(Me.ZonasalmacenamientoBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.VinosBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.ZonasalmacenamientoBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.PanelVino.SuspendLayout()
         CType(Me.ShowPhotoVino, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -166,6 +167,17 @@ Partial Class Editor_Huecos_Modificar
         Me.Insert_Fila.TabIndex = 494
         Me.ToolTip1.SetToolTip(Me.Insert_Fila, "Codigo ID del Vino")
         '
+        'b_showCatalog
+        '
+        Me.b_showCatalog.BackgroundImage = Global.BODEGA.My.Resources.Resources.catalogo_vino
+        Me.b_showCatalog.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
+        Me.b_showCatalog.Location = New System.Drawing.Point(814, 20)
+        Me.b_showCatalog.Name = "b_showCatalog"
+        Me.b_showCatalog.Size = New System.Drawing.Size(67, 53)
+        Me.b_showCatalog.TabIndex = 496
+        Me.ToolTip1.SetToolTip(Me.b_showCatalog, "Pulsar para acceder al listado de vinos")
+        Me.b_showCatalog.UseVisualStyleBackColor = True
+        '
         'DataGridView1
         '
         Me.DataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
@@ -194,6 +206,7 @@ Partial Class Editor_Huecos_Modificar
         '
         'Panel1
         '
+        Me.Panel1.Controls.Add(Me.b_showCatalog)
         Me.Panel1.Controls.Add(Me.ConsumoRadioButton)
         Me.Panel1.Controls.Add(Me.Label13)
         Me.Panel1.Controls.Add(Me.Insert_Fila)
@@ -216,6 +229,11 @@ Partial Class Editor_Huecos_Modificar
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Size = New System.Drawing.Size(899, 394)
         Me.Panel1.TabIndex = 438
+        '
+        'VinosBindingSource
+        '
+        Me.VinosBindingSource.DataMember = "Vinos"
+        Me.VinosBindingSource.DataSource = Me.BD_Bodega_V1DataSet
         '
         'ConsumoRadioButton
         '
@@ -302,20 +320,15 @@ Partial Class Editor_Huecos_Modificar
         Me.ComboBox_ID_Vino.DataSource = Me.VinosBindingSource
         Me.ComboBox_ID_Vino.DisplayMember = "Id_Vino"
         Me.ComboBox_ID_Vino.FormattingEnabled = True
-        Me.ComboBox_ID_Vino.Location = New System.Drawing.Point(665, 79)
+        Me.ComboBox_ID_Vino.Location = New System.Drawing.Point(538, 79)
         Me.ComboBox_ID_Vino.Name = "ComboBox_ID_Vino"
-        Me.ComboBox_ID_Vino.Size = New System.Drawing.Size(208, 21)
+        Me.ComboBox_ID_Vino.Size = New System.Drawing.Size(343, 21)
         Me.ComboBox_ID_Vino.TabIndex = 482
-        '
-        'VinosBindingSource
-        '
-        Me.VinosBindingSource.DataMember = "Vinos"
-        Me.VinosBindingSource.DataSource = Me.BD_Bodega_V1DataSet
         '
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(537, 79)
+        Me.Label7.Location = New System.Drawing.Point(468, 79)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(64, 13)
         Me.Label7.TabIndex = 480
@@ -325,7 +338,7 @@ Partial Class Editor_Huecos_Modificar
         '
         Me.Insert_ID_Vino.BackColor = System.Drawing.SystemColors.Info
         Me.Insert_ID_Vino.Enabled = False
-        Me.Insert_ID_Vino.Location = New System.Drawing.Point(665, 53)
+        Me.Insert_ID_Vino.Location = New System.Drawing.Point(538, 53)
         Me.Insert_ID_Vino.Name = "Insert_ID_Vino"
         Me.Insert_ID_Vino.Size = New System.Drawing.Size(208, 20)
         Me.Insert_ID_Vino.TabIndex = 481
@@ -512,8 +525,8 @@ Partial Class Editor_Huecos_Modificar
         CType(Me.DataGridView1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
-        CType(Me.ZonasalmacenamientoBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.VinosBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.ZonasalmacenamientoBindingSource, System.ComponentModel.ISupportInitialize).EndInit()
         Me.PanelVino.ResumeLayout(False)
         Me.PanelVino.PerformLayout()
         CType(Me.ShowPhotoVino, System.ComponentModel.ISupportInitialize).EndInit()
@@ -568,4 +581,5 @@ Partial Class Editor_Huecos_Modificar
     Friend WithEvents HuecoscompletosBindingSource As BindingSource
     Friend WithEvents Huecos_completosTableAdapter As BD_Bodega_V1DataSetTableAdapters.Huecos_completosTableAdapter
     Friend WithEvents ConsumoRadioButton As RadioButton
+    Friend WithEvents b_showCatalog As Button
 End Class

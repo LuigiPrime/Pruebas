@@ -49,7 +49,9 @@ Partial Class Editor_DO_Principal
         Me.b_Modificar = New System.Windows.Forms.Button()
         Me.b_Insertar = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Label11 = New System.Windows.Forms.Label()
         Me.ShowPhotoMAP = New System.Windows.Forms.PictureBox()
+        Me.Show_NumBotellas = New System.Windows.Forms.TextBox()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Show_MAP_name = New System.Windows.Forms.TextBox()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -61,8 +63,6 @@ Partial Class Editor_DO_Principal
         Me.show_Informacion = New System.Windows.Forms.TextBox()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Show_NumBotellas = New System.Windows.Forms.TextBox()
         CType(Me.BD_Bodega_V1DataSet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Denominaciones_OrigenBindingSource, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Denominaciones_OrigenBindingNavigator, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -203,8 +203,10 @@ Partial Class Editor_DO_Principal
         '
         'Denominaciones_OrigenDataGridView
         '
+        Me.Denominaciones_OrigenDataGridView.AllowUserToAddRows = False
+        Me.Denominaciones_OrigenDataGridView.AllowUserToDeleteRows = False
         Me.Denominaciones_OrigenDataGridView.AutoGenerateColumns = False
-        Me.Denominaciones_OrigenDataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.DisplayedCells
+        Me.Denominaciones_OrigenDataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells
         Me.Denominaciones_OrigenDataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
         Me.Denominaciones_OrigenDataGridView.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.DataGridViewTextBoxColumn1, Me.DataGridViewTextBoxColumn2, Me.DataGridViewTextBoxColumn3, Me.DataGridViewTextBoxColumn4})
         Me.Denominaciones_OrigenDataGridView.DataSource = Me.Denominaciones_OrigenBindingSource
@@ -287,6 +289,15 @@ Partial Class Editor_DO_Principal
         Me.Panel1.Size = New System.Drawing.Size(675, 283)
         Me.Panel1.TabIndex = 446
         '
+        'Label11
+        '
+        Me.Label11.AutoSize = True
+        Me.Label11.Location = New System.Drawing.Point(17, 228)
+        Me.Label11.Name = "Label11"
+        Me.Label11.Size = New System.Drawing.Size(102, 13)
+        Me.Label11.TabIndex = 456
+        Me.Label11.Text = "Nº Vinos registrados"
+        '
         'ShowPhotoMAP
         '
         Me.ShowPhotoMAP.BackColor = System.Drawing.Color.Silver
@@ -297,6 +308,18 @@ Partial Class Editor_DO_Principal
         Me.ShowPhotoMAP.Size = New System.Drawing.Size(330, 261)
         Me.ShowPhotoMAP.TabIndex = 465
         Me.ShowPhotoMAP.TabStop = False
+        '
+        'Show_NumBotellas
+        '
+        Me.Show_NumBotellas.BackColor = System.Drawing.SystemColors.Info
+        Me.Show_NumBotellas.Cursor = System.Windows.Forms.Cursors.Help
+        Me.Show_NumBotellas.Enabled = False
+        Me.Show_NumBotellas.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Show_NumBotellas.Location = New System.Drawing.Point(20, 250)
+        Me.Show_NumBotellas.Name = "Show_NumBotellas"
+        Me.Show_NumBotellas.Size = New System.Drawing.Size(98, 23)
+        Me.Show_NumBotellas.TabIndex = 455
+        Me.ToolTip1.SetToolTip(Me.Show_NumBotellas, "Número de botellas totales")
         '
         'Label4
         '
@@ -392,27 +415,6 @@ Partial Class Editor_DO_Principal
         Me.TextBox1.Size = New System.Drawing.Size(63, 20)
         Me.TextBox1.TabIndex = 447
         Me.TextBox1.Visible = False
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Location = New System.Drawing.Point(17, 228)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(102, 13)
-        Me.Label11.TabIndex = 456
-        Me.Label11.Text = "Nº Vinos registrados"
-        '
-        'Show_NumBotellas
-        '
-        Me.Show_NumBotellas.BackColor = System.Drawing.SystemColors.Info
-        Me.Show_NumBotellas.Cursor = System.Windows.Forms.Cursors.Help
-        Me.Show_NumBotellas.Enabled = False
-        Me.Show_NumBotellas.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Show_NumBotellas.Location = New System.Drawing.Point(20, 250)
-        Me.Show_NumBotellas.Name = "Show_NumBotellas"
-        Me.Show_NumBotellas.Size = New System.Drawing.Size(98, 23)
-        Me.Show_NumBotellas.TabIndex = 455
-        Me.ToolTip1.SetToolTip(Me.Show_NumBotellas, "Número de botellas totales")
         '
         'Editor_DO_Principal
         '

@@ -100,10 +100,11 @@ Partial Class Folleto_Vinos
         Me.Show_NumBotellas.Cursor = System.Windows.Forms.Cursors.Help
         Me.Show_NumBotellas.Enabled = False
         Me.Show_NumBotellas.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Show_NumBotellas.Location = New System.Drawing.Point(182, 425)
+        Me.Show_NumBotellas.Location = New System.Drawing.Point(260, 425)
         Me.Show_NumBotellas.Name = "Show_NumBotellas"
-        Me.Show_NumBotellas.Size = New System.Drawing.Size(128, 23)
+        Me.Show_NumBotellas.Size = New System.Drawing.Size(50, 23)
         Me.Show_NumBotellas.TabIndex = 441
+        Me.Show_NumBotellas.TextAlign = System.Windows.Forms.HorizontalAlignment.Right
         Me.ToolTip1.SetToolTip(Me.Show_NumBotellas, "numero de botellas contabilizadas")
         '
         'Button1
@@ -301,6 +302,7 @@ Partial Class Folleto_Vinos
         Me.Show_Maduracion.Name = "Show_Maduracion"
         Me.Show_Maduracion.Size = New System.Drawing.Size(128, 23)
         Me.Show_Maduracion.TabIndex = 429
+        Me.Show_Maduracion.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Show_Denominacion
         '
@@ -324,6 +326,7 @@ Partial Class Folleto_Vinos
         Me.Show_Tipo.Name = "Show_Tipo"
         Me.Show_Tipo.Size = New System.Drawing.Size(128, 23)
         Me.Show_Tipo.TabIndex = 426
+        Me.Show_Tipo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Show_year
         '
@@ -335,6 +338,7 @@ Partial Class Folleto_Vinos
         Me.Show_year.Name = "Show_year"
         Me.Show_year.Size = New System.Drawing.Size(128, 23)
         Me.Show_year.TabIndex = 425
+        Me.Show_year.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'Show_Marca
         '

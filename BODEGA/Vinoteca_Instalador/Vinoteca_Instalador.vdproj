@@ -22,12 +22,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_01B10375870E4C548362D55022AA4E71"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_0246472B0974482DAC3EFA9492A084D9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -35,12 +29,6 @@
         "Entry"
         {
         "MsmKey" = "8:_0351880220874B9697C6B6B462848FE3"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_04F872AB254B47FD997569687EC8AD76"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -94,19 +82,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_0B44E18150874A77B19EACA466C4FC28"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_0BA0724B6337467B91E32F04997E24A6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0DBB11C308354648B4201F02730D699D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -124,13 +100,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_10AA641BB8C94547A7562006FBA4A3DC"
+        "MsmKey" = "8:_11306449C6D74C2C8C1D89DF4ECCE6B8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_11306449C6D74C2C8C1D89DF4ECCE6B8"
+        "MsmKey" = "8:_11EC07DF2D644160B7523E1213E035AB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -155,18 +131,6 @@
         "Entry"
         {
         "MsmKey" = "8:_195BA0BB967444319AE3289B20A9EC19"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1B87825975F74CA5A34A3C2387968B62"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_1C0F47D7797E4758BB7FC46108642018"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -226,12 +190,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_248D3C839F5E4B15A14BC066234E0F13"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_24E4D84341854D6E90620D739DC96F30"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -239,18 +197,6 @@
         "Entry"
         {
         "MsmKey" = "8:_25C7CBBD61BF48B99B1CC04754FD752C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_25EEFA5213B2497093784DD9C3AF6680"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_2710DCD73F114D9C8F34D4950EB898EE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -280,7 +226,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_289A4D875FB54B72BCB24D565524FB7E"
+        "MsmKey" = "8:_293AE45ECFE449CD9C34EE338CBF074D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -292,19 +238,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_2D805E34FA77450ABF78134715C80593"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_2EA163C0922043C690450585F83690BC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_304B37E599874519843CC5254D84F306"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -328,37 +262,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_321E012EDDB44C2D90F75D0CC449E8A7"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_326B5A05EE334597A30597DBA15AD7B9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_32A5E86338EA4DB987EA4FB54F9913B0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_32E14934B06A4961802276677F826730"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_3305766FC6444644AF7F1FA1880ECC44"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_34341828E32E41B4B35A06BC3C45AA27"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -388,12 +298,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_383E5E6CA19241FA8D41EF868462467E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_3861F72913A349148EF2207C23231B15"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -401,12 +305,6 @@
         "Entry"
         {
         "MsmKey" = "8:_38E168FBF74C4C2D95DD4D0B1721DFCB"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3AC83AA6E83A42F39BF830C654BA7CE3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -424,12 +322,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3B71FF8F44EB4CA69CC7B2D7136A4F1F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_3BD0F2A1768647BD95F1C495BF9844C3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -442,25 +334,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3EE7B3A85FFB4DB386C2C791BACEFA72"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3EF6DAB732D94E07B8D8C380DE85139B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_3FE23D6B27DA41BBB77232A9F4D1EDF5"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_427AA15BD7F648E1AA707EB528ECDE80"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -520,13 +394,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_4F774B7C33D64D9BAC75E25C977F862F"
+        "MsmKey" = "8:_52C833199AE146F5B1BF1100D2D77717"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_52C833199AE146F5B1BF1100D2D77717"
+        "MsmKey" = "8:_53A1BAD7C1F340B9947B2EBAC888694D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -538,25 +412,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_53C6DD9054E340469493CF7AB0685455"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_53D8C612CE4246749A273EB83766A66D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5653E3284D894D4A8ED1A3DEB3F62B23"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_588305094608464CB2627E1225468644"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -568,19 +424,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_58FD20AB4F914140802E8EFAF5486431"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_5A27CBD9E1CA41AA813018BC59A92E13"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5A69BEDDBD784081866D2E9805CC57A1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -634,12 +478,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_64AF24065B3245949EF3AE2C9675CEC7"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_652B0A99190D4F7A82BF5B70FDAA5D61"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -670,25 +508,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_688B6BECBA084BE2974CCFD882A25097"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_689D74CE5C86456F890572D1D4E6FDE1"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_68EFC68D313242DF812EA8F451C1670C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6A8DB39516A8419E81216315953EC534"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -701,18 +521,6 @@
         "Entry"
         {
         "MsmKey" = "8:_6C300AF1141347E0865091BD8553587C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6C6D1753FE0F45D1845AD2AC0EFC759B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6C89C06C9CE8456CAB787330F268D006"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -754,12 +562,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_6FDE3B7CC9A54C1BB5F7353CE9D4D312"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_704888EAF3B6486CB5283CB80C2AF2E1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -767,12 +569,6 @@
         "Entry"
         {
         "MsmKey" = "8:_707A2E8513E140E481906B6896CEB34D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_715414B55A834D169AF9EF1F6251FD9F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -796,12 +592,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_74AD67FD9A6B4A2DB44EAA3B80B028BC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_74B8C89E4A60448BAB725218CC70C753"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -809,12 +599,6 @@
         "Entry"
         {
         "MsmKey" = "8:_75C2D27E41984491B11BEA74C52B6673"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7666F74BDBA843B69556CA003151F60E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -832,19 +616,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_79603776BC71408FAF0E2F7FCC07EB21"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_79A239CF380749A0A51B0E0293930D3B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_79D2883D243C49F3B042BFDAEB23B9D7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -863,12 +635,6 @@
         "Entry"
         {
         "MsmKey" = "8:_7C6D1B3277654D98A7A982039F2D4372"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_7CC34F9CE46043288AA9734123A1DFC1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -904,12 +670,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_817A22F6D25A4BBAA266CFF248FA7972"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_81E4B4DEA7224ACCAB8DE1780B37D51C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -928,12 +688,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_828CEB76A8934D63A9A5BACA383089CB"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_82EF01459E7942CE848513CD789FA86C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -941,12 +695,6 @@
         "Entry"
         {
         "MsmKey" = "8:_84468A4B48C14438909E4AA6286C0942"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_85C1EA4A413D494F8D91C59B684F7A68"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -994,12 +742,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_888043701A33467CB9AACD4512017DA9"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_89406A18B9B84E049E9DCB4C6B1B9E8F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1025,12 +767,6 @@
         "Entry"
         {
         "MsmKey" = "8:_8EB0C88F1B1F4A3895F26E0259C26F84"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_8F0B2177B18340F69EAA75ADF13F9D4A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1072,19 +808,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_94CC0BDDB3634CEC92B2DB1EA969A65A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_9571CA3458CE4E1C897C6F7ECA1D7AA2"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_97A04C0E87AC4D9589944B11E19B37F0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1144,31 +868,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A2DACC7DA77B4AEAA78627D9F60BDDED"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A3EF744EB03D4096B8D7EAF4C8903930"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_A503AB5D77F8491AA421609F9AD6A733"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A512A151062B4C48BE7EBFD74DEF0F32"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A527FB152C614763A2F760885D70ECFB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1192,12 +892,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_A98DE75D900E47C5BC9EF5E0E7EFB79D"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_B12E84480DA54A0EBECCA1BBD1CCED3A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1211,12 +905,6 @@
         "Entry"
         {
         "MsmKey" = "8:_B29CA2738B3E44AFAEB0F3E9A2D70EDC"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B2A4F039462844919F4C37C056F5138A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1246,12 +934,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_B8FDA326D0D7408CA9DF00AA9D954F34"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_B91B6FC874EE4497937F006A81538ED0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1271,12 +953,6 @@
         "Entry"
         {
         "MsmKey" = "8:_BBBEA9880C194685A6A5B23D97961BC0"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BC22DCFCF9624E14BCCD577AA7DDDCEE"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1306,25 +982,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C38AB3710C264031A1ABE994223189BD"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C6C4C82D1F45430C9669EAAD1A5C7153"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_CA0C20FCDD3F46CAACD1593A95CBDEE8"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CAF1BF49D9924A00AEBC151FDE30E467"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1349,12 +1007,6 @@
         "Entry"
         {
         "MsmKey" = "8:_CEDDBEFFFCC04589B28B842C19449D9A"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_D00177E9E34844E7ADD61700D4D4DF60"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1414,12 +1066,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_D9DAA1C3E9984154BDFA63984B19E471"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_DB1A101858274CA480828B3DA8E6EB3C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1427,12 +1073,6 @@
         "Entry"
         {
         "MsmKey" = "8:_DC561B5EE9D04A3898E7C7475B4D1D22"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DCC945CE1A4B43BD8CBA8E091E472923"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1457,12 +1097,6 @@
         "Entry"
         {
         "MsmKey" = "8:_DE5B13FBE9A841A28DB0DDA6A00BDD4E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_DF28C578AB104EBBA4782B05615002FA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1534,12 +1168,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EA314DE66E15495D8464AD8CD9EFBE3C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_EBCFAEB10647400AB97D616D575FD021"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1552,31 +1180,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_ECB97A55D9BB44919023BDEFD9F99015"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_EEE561454CE8459B8FF1EC8868C66EA4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EF5E2D7898174DCD93249150306E4A6C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_F26FDA8D9DFD42C2A76F9B46A3B6AA2F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F2D52C0AAA284344B9F6A4F106C93754"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F30E359E12174151898AD287D5EC4447"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1600,25 +1216,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_F6696DE46C174DEE92C59A810F0921F6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F67C09B10D754B259ACBE1755134A779"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_F9220D1C077B481E941E9FF44874DE42"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F9EBFE52F4A742B48EAF6F72310C7C58"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -1643,13 +1241,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_368FDF2D065A2D4CBE1733D2CB458979"
+        "OwnerKey" = "8:_82EF01459E7942CE848513CD789FA86C"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_82EF01459E7942CE848513CD789FA86C"
+        "OwnerKey" = "8:_368FDF2D065A2D4CBE1733D2CB458979"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -1767,26 +1365,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_01B10375870E4C548362D55022AA4E71"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_rojo.png"
-            "TargetName" = "8:circulo_rojo.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0246472B0974482DAC3EFA9492A084D9"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\PAJ99.jpg"
@@ -1813,26 +1391,6 @@
             "TargetName" = "8:X_NO_VINO.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_04F872AB254B47FD997569687EC8AD76"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\wine-bottle_icon-icons.com_60728.ico"
-            "TargetName" = "8:wine-bottle_icon-icons.com_60728.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2007,52 +1565,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0B44E18150874A77B19EACA466C4FC28"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\vino_tinto_png.png"
-            "TargetName" = "8:vino_tinto_png.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0BA0724B6337467B91E32F04997E24A6"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\MCA89.jpg"
             "TargetName" = "8:MCA89.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0DBB11C308354648B4201F02730D699D"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_verde.png"
-            "TargetName" = "8:circulo_verde.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2107,12 +1625,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_10AA641BB8C94547A7562006FBA4A3DC"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_11306449C6D74C2C8C1D89DF4ECCE6B8"
             {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\borrar.png"
-            "TargetName" = "8:borrar.png"
+            "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\REM.jpg"
+            "TargetName" = "8:REM.jpg"
             "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
+            "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2127,12 +1645,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_11306449C6D74C2C8C1D89DF4ECCE6B8"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_11EC07DF2D644160B7523E1213E035AB"
             {
-            "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\REM.jpg"
-            "TargetName" = "8:REM.jpg"
+            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\bottle_wine_alcohol_drink_empty_icon-icons.com_55349.ico"
+            "TargetName" = "8:bottle_wine_alcohol_drink_empty_icon-icons.com_55349.ico"
             "Tag" = "8:"
-            "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
+            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2213,46 +1731,6 @@
             "TargetName" = "8:ERE07.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B87825975F74CA5A34A3C2387968B62"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\hd_wine_harddisk_9763.ico"
-            "TargetName" = "8:hd_wine_harddisk_9763.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1C0F47D7797E4758BB7FC46108642018"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\vino-champan.png"
-            "TargetName" = "8:vino-champan.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2447,26 +1925,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_248D3C839F5E4B15A14BC066234E0F13"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_violeta.png"
-            "TargetName" = "8:circulo_violeta.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_24E4D84341854D6E90620D739DC96F30"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\CAN85.jpg"
@@ -2493,46 +1951,6 @@
             "TargetName" = "8:BOR86.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_25EEFA5213B2497093784DD9C3AF6680"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\marcador-de-posicion.png"
-            "TargetName" = "8:marcador-de-posicion.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2710DCD73F114D9C8F34D4950EB898EE"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_marron.png"
-            "TargetName" = "8:circulo_marron.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2627,12 +2045,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_289A4D875FB54B72BCB24D565524FB7E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_293AE45ECFE449CD9C34EE338CBF074D"
             {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\regreso.png"
-            "TargetName" = "8:regreso.png"
+            "SourcePath" = "8:..\\BODEGA\\Resources\\Info.txt"
+            "TargetName" = "8:Info.txt"
             "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
+            "Folder" = "8:_68FE1A7E2D9A42D5AA9BAC4F3877D129"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2667,52 +2085,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2D805E34FA77450ABF78134715C80593"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_blanco.png"
-            "TargetName" = "8:circulo_blanco.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2EA163C0922043C690450585F83690BC"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\logos\\ribera del guadiana.jpg"
             "TargetName" = "8:ribera del guadiana.jpg"
             "Tag" = "8:"
             "Folder" = "8:_6D4328D8376E43E587F9201192B9D7EA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_304B37E599874519843CC5254D84F306"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\copa-de-vino-rosado.png"
-            "TargetName" = "8:copa-de-vino-rosado.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2787,26 +2165,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_321E012EDDB44C2D90F75D0CC449E8A7"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Fondos\\lenera\\Lenera_1600X900_convertido.png"
-            "TargetName" = "8:Lenera_1600X900_convertido.png"
-            "Tag" = "8:"
-            "Folder" = "8:_1477DFCDCFEB46A88EAEF155232AD701"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_326B5A05EE334597A30597DBA15AD7B9"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\MCU80.jpg"
@@ -2827,72 +2185,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_32A5E86338EA4DB987EA4FB54F9913B0"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\download_server_icon-icons.com_76720.ico"
-            "TargetName" = "8:download_server_icon-icons.com_76720.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_32E14934B06A4961802276677F826730"
-            {
-            "SourcePath" = "8:..\\BODEGA\\BD_Bodega_V1.accdb"
-            "TargetName" = "8:BD_Bodega_V1.accdb"
-            "Tag" = "8:"
-            "Folder" = "8:_FFCF53A6C57848D3BD222F3538D4F17B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3305766FC6444644AF7F1FA1880ECC44"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\TORREMILANOS.jpeg"
             "TargetName" = "8:TORREMILANOS.jpeg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_34341828E32E41B4B35A06BC3C45AA27"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_gris.png"
-            "TargetName" = "8:circulo_gris.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2998,26 +2296,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_383E5E6CA19241FA8D41EF868462467E"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\champan.png"
-            "TargetName" = "8:champan.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3861F72913A349148EF2207C23231B15"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\VIPOMALXX.jpg"
@@ -3044,26 +2322,6 @@
             "TargetName" = "8:GRE58.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3AC83AA6E83A42F39BF830C654BA7CE3"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_negro.png"
-            "TargetName" = "8:circulo_negro.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3118,26 +2376,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B71FF8F44EB4CA69CC7B2D7136A4F1F"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\catalogo_vino.png"
-            "TargetName" = "8:catalogo_vino.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3BD0F2A1768647BD95F1C495BF9844C3"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\SLLXX.jpg"
@@ -3178,72 +2416,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3EE7B3A85FFB4DB386C2C791BACEFA72"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\Icono_vinos_1.png"
-            "TargetName" = "8:Icono_vinos_1.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3EF6DAB732D94E07B8D8C380DE85139B"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\logo_vino_2.png"
-            "TargetName" = "8:logo_vino_2.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3FE23D6B27DA41BBB77232A9F4D1EDF5"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\REM01.jpg"
             "TargetName" = "8:REM01.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_427AA15BD7F648E1AA707EB528ECDE80"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\reinicio.png"
-            "TargetName" = "8:reinicio.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3438,12 +2616,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F774B7C33D64D9BAC75E25C977F862F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_52C833199AE146F5B1BF1100D2D77717"
             {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\engranaje.png"
-            "TargetName" = "8:engranaje.png"
+            "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\MUG82.jpg"
+            "TargetName" = "8:MUG82.jpg"
             "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
+            "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3458,12 +2636,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_52C833199AE146F5B1BF1100D2D77717"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_53A1BAD7C1F340B9947B2EBAC888694D"
             {
-            "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\MUG82.jpg"
-            "TargetName" = "8:MUG82.jpg"
+            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\winewindows_vino_928.ico"
+            "TargetName" = "8:winewindows_vino_928.ico"
             "Tag" = "8:"
-            "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
+            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3498,72 +2676,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_53C6DD9054E340469493CF7AB0685455"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_verde.png"
-            "TargetName" = "8:circulo_verde.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_53D8C612CE4246749A273EB83766A66D"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\bottle_wine_alcohol_drink_empty_icon-icons.com_55349.ico"
-            "TargetName" = "8:bottle_wine_alcohol_drink_empty_icon-icons.com_55349.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5653E3284D894D4A8ED1A3DEB3F62B23"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\COT82.jpg"
             "TargetName" = "8:COT82.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_588305094608464CB2627E1225468644"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Fondos\\portada\\Portada.jpg"
-            "TargetName" = "8:Portada.jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_84F9AE30A3C247FE870A434DB5433F3A"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3598,52 +2716,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_58FD20AB4F914140802E8EFAF5486431"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\apagar.png"
-            "TargetName" = "8:apagar.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5A27CBD9E1CA41AA813018BC59A92E13"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\ALK87.jpg"
             "TargetName" = "8:ALK87.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5A69BEDDBD784081866D2E9805CC57A1"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\icontexto-search-08_icon-icons.com_76904.ico"
-            "TargetName" = "8:icontexto-search-08_icon-icons.com_76904.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3818,26 +2896,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_64AF24065B3245949EF3AE2C9675CEC7"
-            {
-            "SourcePath" = "8:..\\BODEGA\\BD_Bodega_V1.accdb"
-            "TargetName" = "8:BD_Bodega_V1.accdb"
-            "Tag" = "8:"
-            "Folder" = "8:_B9071D17C08048EA9616B28A01FBB207"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_652B0A99190D4F7A82BF5B70FDAA5D61"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\DO_Penedès_location.svg.png"
@@ -3938,72 +2996,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_688B6BECBA084BE2974CCFD882A25097"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_amarillo.png"
-            "TargetName" = "8:circulo_amarillo.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_689D74CE5C86456F890572D1D4E6FDE1"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\ANT02.jpg"
             "TargetName" = "8:ANT02.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_68EFC68D313242DF812EA8F451C1670C"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\folder_wine_9766.ico"
-            "TargetName" = "8:folder_wine_9766.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6A8DB39516A8419E81216315953EC534"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\estante - 90X65.png"
-            "TargetName" = "8:estante - 90X65.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4044,46 +3042,6 @@
             "TargetName" = "8:GENERICO.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6C6D1753FE0F45D1845AD2AC0EFC759B"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\winewindows_vino_928.ico"
-            "TargetName" = "8:winewindows_vino_928.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6C89C06C9CE8456CAB787330F268D006"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_blanco.png"
-            "TargetName" = "8:circulo_blanco.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4218,26 +3176,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6FDE3B7CC9A54C1BB5F7353CE9D4D312"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\winebottlebeverage_vino_botella_4001.ico"
-            "TargetName" = "8:winebottlebeverage_vino_botella_4001.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_704888EAF3B6486CB5283CB80C2AF2E1"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\DO_Ribeira_Sacra_location.svg.png"
@@ -4264,26 +3202,6 @@
             "TargetName" = "8:VPO81.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_715414B55A834D169AF9EF1F6251FD9F"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_violeta.png"
-            "TargetName" = "8:circulo_violeta.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4358,26 +3276,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_74AD67FD9A6B4A2DB44EAA3B80B028BC"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_negro.png"
-            "TargetName" = "8:circulo_negro.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_74B8C89E4A60448BAB725218CC70C753"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\FRBXX.jpg"
@@ -4404,26 +3302,6 @@
             "TargetName" = "8:SIG76.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7666F74BDBA843B69556CA003151F60E"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\alerta.png"
-            "TargetName" = "8:alerta.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4478,52 +3356,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_79603776BC71408FAF0E2F7FCC07EB21"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\do_ribera.jpg"
-            "TargetName" = "8:do_ribera.jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_79A239CF380749A0A51B0E0293930D3B"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\640px-DO_Navarra_location.svg.png"
             "TargetName" = "8:640px-DO_Navarra_location.svg.png"
             "Tag" = "8:"
             "Folder" = "8:_9BFDD8C02C0C493494B7D092584AC6F3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_79D2883D243C49F3B042BFDAEB23B9D7"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Ayuda_vinoteca.chm"
-            "TargetName" = "8:Ayuda_vinoteca.chm"
-            "Tag" = "8:"
-            "Folder" = "8:_F2E565967D82495487BB30B0FE64D574"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4584,26 +3422,6 @@
             "TargetName" = "8:SAN97.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CC34F9CE46043288AA9734123A1DFC1"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\info.png"
-            "TargetName" = "8:info.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4718,26 +3536,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_817A22F6D25A4BBAA266CFF248FA7972"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\do_RIOJA.jpg"
-            "TargetName" = "8:do_RIOJA.jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_81E4B4DEA7224ACCAB8DE1780B37D51C"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\logos\\do_bordeaux.jpg"
@@ -4798,52 +3596,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_828CEB76A8934D63A9A5BACA383089CB"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\do_valdepenas.jpg"
-            "TargetName" = "8:do_valdepenas.jpg"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_84468A4B48C14438909E4AA6286C0942"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\MCU87.jpg"
             "TargetName" = "8:MCU87.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_85C1EA4A413D494F8D91C59B684F7A68"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_azul.png"
-            "TargetName" = "8:circulo_azul.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -4998,26 +3756,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_888043701A33467CB9AACD4512017DA9"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\bodega_huecos.png"
-            "TargetName" = "8:bodega_huecos.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_89406A18B9B84E049E9DCB4C6B1B9E8F"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\BLE96.jpg"
@@ -5104,26 +3842,6 @@
             "TargetName" = "8:LCR02.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8F0B2177B18340F69EAA75ADF13F9D4A"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\menus\\desable_server_icon-icons.com_76719.ico"
-            "TargetName" = "8:desable_server_icon-icons.com_76719.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_E294ADE4944048B5BBF59198F01DF822"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5258,52 +3976,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_94CC0BDDB3634CEC92B2DB1EA969A65A"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_gris.png"
-            "TargetName" = "8:circulo_gris.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9571CA3458CE4E1C897C6F7ECA1D7AA2"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\CAS88.jpg"
             "TargetName" = "8:CAS88.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_97A04C0E87AC4D9589944B11E19B37F0"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\zonas_almacenamiento.png"
-            "TargetName" = "8:zonas_almacenamiento.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5498,92 +4176,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A2DACC7DA77B4AEAA78627D9F60BDDED"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\vino_rosado.png"
-            "TargetName" = "8:vino_rosado.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A3EF744EB03D4096B8D7EAF4C8903930"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\botella-de-vino.png"
-            "TargetName" = "8:botella-de-vino.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A503AB5D77F8491AA421609F9AD6A733"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\HDB09.jpg"
             "TargetName" = "8:HDB09.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A512A151062B4C48BE7EBFD74DEF0F32"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Fondos\\lenera\\Lenera_1360X900_convertido.png"
-            "TargetName" = "8:Lenera_1360X900_convertido.png"
-            "Tag" = "8:"
-            "Folder" = "8:_1477DFCDCFEB46A88EAEF155232AD701"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A527FB152C614763A2F760885D70ECFB"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\backup.png"
-            "TargetName" = "8:backup.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5658,26 +4256,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A98DE75D900E47C5BC9EF5E0E7EFB79D"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Ayuda_vinoteca.chm"
-            "TargetName" = "8:Ayuda_vinoteca.chm"
-            "Tag" = "8:"
-            "Folder" = "8:_E0C1891078F64C70B6BDF779C0E8B90E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B12E84480DA54A0EBECCA1BBD1CCED3A"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\640px-Weinbaugebiete-frankreich-bordeaux.png"
@@ -5724,26 +4302,6 @@
             "TargetName" = "8:zona_principal.jpg"
             "Tag" = "8:"
             "Folder" = "8:_ABA0CC1ABE3144B0BF6CB7B969274BBF"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2A4F039462844919F4C37C056F5138A"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\basura.png"
-            "TargetName" = "8:basura.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -5838,26 +4396,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B8FDA326D0D7408CA9DF00AA9D954F34"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Fondos\\lenera\\Lenera_1360X900_convertido_2.png"
-            "TargetName" = "8:Lenera_1360X900_convertido_2.png"
-            "Tag" = "8:"
-            "Folder" = "8:_1477DFCDCFEB46A88EAEF155232AD701"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B91B6FC874EE4497937F006A81538ED0"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\ECO10.jpg"
@@ -5924,26 +4462,6 @@
             "TargetName" = "8:MON97.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BC22DCFCF9624E14BCCD577AA7DDDCEE"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Fondos\\principal\\Principal_huecos.png"
-            "TargetName" = "8:Principal_huecos.png"
-            "Tag" = "8:"
-            "Folder" = "8:_01468EF2098847638C8A9558954DFF1D"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6038,72 +4556,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C38AB3710C264031A1ABE994223189BD"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\circulo_rojo.png"
-            "TargetName" = "8:circulo_rojo.png"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C6C4C82D1F45430C9669EAAD1A5C7153"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\Logo-pdo_es.png"
-            "TargetName" = "8:Logo-pdo_es.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CA0C20FCDD3F46CAACD1593A95CBDEE8"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\MCA92.jpg"
             "TargetName" = "8:MCA92.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CAF1BF49D9924A00AEBC151FDE30E467"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_azul.png"
-            "TargetName" = "8:circulo_azul.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6184,26 +4642,6 @@
             "TargetName" = "8:FAU00.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D00177E9E34844E7ADD61700D4D4DF60"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_amarillo.png"
-            "TargetName" = "8:circulo_amarillo.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6398,26 +4836,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D9DAA1C3E9984154BDFA63984B19E471"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\refresh.png"
-            "TargetName" = "8:refresh.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DB1A101858274CA480828B3DA8E6EB3C"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\VZA76.jpg"
@@ -6444,26 +4862,6 @@
             "TargetName" = "8:PCA03.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DCC945CE1A4B43BD8CBA8E091E472923"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\vino-tinto.png"
-            "TargetName" = "8:vino-tinto.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6544,26 +4942,6 @@
             "TargetName" = "8:LAG.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DF28C578AB104EBBA4782B05615002FA"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\resized\\Thumbs.db"
-            "TargetName" = "8:Thumbs.db"
-            "Tag" = "8:"
-            "Folder" = "8:_7D69F24796944BB490004DE9ACA7A55E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -6798,26 +5176,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EA314DE66E15495D8464AD8CD9EFBE3C"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\poder.png"
-            "TargetName" = "8:poder.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EBCFAEB10647400AB97D616D575FD021"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\DO_Valdepeñas_location.svg.png"
@@ -6858,6 +5216,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ECB97A55D9BB44919023BDEFD9F99015"
+            {
+            "SourcePath" = "8:..\\BODEGA\\BD_Bodega_V1.accdb"
+            "TargetName" = "8:BD_Bodega_V1.accdb"
+            "Tag" = "8:"
+            "Folder" = "8:_B9071D17C08048EA9616B28A01FBB207"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EEE561454CE8459B8FF1EC8868C66EA4"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\zonas\\zona_aux_1.jpg"
@@ -6878,72 +5256,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EF5E2D7898174DCD93249150306E4A6C"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\kisspng-calculator-numeric-keypad-vector-calculator-5a6d44a8b13912.8514482915171104407259.png"
-            "TargetName" = "8:kisspng-calculator-numeric-keypad-vector-calculator-5a6d44a8b13912.8514482915171104407259.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F26FDA8D9DFD42C2A76F9B46A3B6AA2F"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\denominacion_origen\\logos\\logo-standar-getaria.jpg"
             "TargetName" = "8:logo-standar-getaria.jpg"
             "Tag" = "8:"
             "Folder" = "8:_6D4328D8376E43E587F9201192B9D7EA"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F2D52C0AAA284344B9F6A4F106C93754"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Fondos\\popups\\Fondo_detalle.png"
-            "TargetName" = "8:Fondo_detalle.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B479E79CB6C4431C9490A32DD444F4E3"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F30E359E12174151898AD287D5EC4447"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\big\\circulo_marron.png"
-            "TargetName" = "8:circulo_marron.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B9151D1C0E5B455BB0C10CD5FE7368CA"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7018,72 +5336,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F6696DE46C174DEE92C59A810F0921F6"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\Info.txt"
-            "TargetName" = "8:Info.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_68FE1A7E2D9A42D5AA9BAC4F3877D129"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F67C09B10D754B259ACBE1755134A779"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\encender.png"
-            "TargetName" = "8:encender.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F9220D1C077B481E941E9FF44874DE42"
             {
             "SourcePath" = "8:..\\BODEGA\\bin\\imagenes\\vinos\\BAR81.jpg"
             "TargetName" = "8:BAR81.jpg"
             "Tag" = "8:"
             "Folder" = "8:_8B96BD94FFF844EABA53F8F71A4E85DC"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F9EBFE52F4A742B48EAF6F72310C7C58"
-            {
-            "SourcePath" = "8:..\\BODEGA\\Resources\\iconos\\base-de-datos.png"
-            "TargetName" = "8:base-de-datos.png"
-            "Tag" = "8:"
-            "Folder" = "8:_B2B27A0F965C4785854C9AC96E60446B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -7302,39 +5560,6 @@
                             "Property" = "8:_ED138755154041FEABAA7C0ACF33AF1D"
                                 "Folders"
                                 {
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_7D69F24796944BB490004DE9ACA7A55E"
-                                    {
-                                    "Name" = "8:resized"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_E1BF0EF4FFF749489A719A98FD3A3AA9"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_B9151D1C0E5B455BB0C10CD5FE7368CA"
-                                    {
-                                    "Name" = "8:big"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_1231452361F14D02A58B2AF081534F85"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E294ADE4944048B5BBF59198F01DF822"
-                                    {
-                                    "Name" = "8:menus"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_767B5C441CE144D2AE32D3D91410B060"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
                                 }
                             }
                             "{9EF0B969-E518-4E46-987F-47570745A589}:_C9A1453BC47648E59F54BB87FA4CC961"
@@ -7346,94 +5571,6 @@
                             "Property" = "8:_952CC11042F249E8B8860920807338DC"
                                 "Folders"
                                 {
-                                }
-                            }
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_F2E565967D82495487BB30B0FE64D574"
-                            {
-                            "Name" = "8:help"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_B769EA3DF9EB45378AFC25B604829AE3"
-                                "Folders"
-                                {
-                                }
-                            }
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_F401E90A1900464A824761A84FBF6AF9"
-                            {
-                            "Name" = "8:Fondos"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_18B31C4BB77244B69174E4A9741F9A4E"
-                                "Folders"
-                                {
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_01468EF2098847638C8A9558954DFF1D"
-                                    {
-                                    "Name" = "8:principal"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_8889BA22F2BE4650B501FDF7EC3C910D"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_1477DFCDCFEB46A88EAEF155232AD701"
-                                    {
-                                    "Name" = "8:lenera"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_2556BE542D7046C2AA9E91A78DA182D8"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_179B7E48866F424E9619A82976ED1D78"
-                                    {
-                                    "Name" = "8:despensa"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_F7C8FFBF0E4844AE81CAC830C6936068"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_84F9AE30A3C247FE870A434DB5433F3A"
-                                    {
-                                    "Name" = "8:portada"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_4555B15BECD949C9ADF48412A7D438F5"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_B479E79CB6C4431C9490A32DD444F4E3"
-                                    {
-                                    "Name" = "8:popups"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_1C7AFED2267F4EF78A0123C496C3F26B"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
-                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E8E02643AEEB4CD6B8506414CB5319E3"
-                                    {
-                                    "Name" = "8:auxiliar"
-                                    "AlwaysCreate" = "11:FALSE"
-                                    "Condition" = "8:"
-                                    "Transitive" = "11:FALSE"
-                                    "Property" = "8:_117B8065ACD34D50BFC45B6EF849605E"
-                                        "Folders"
-                                        {
-                                        }
-                                    }
                                 }
                             }
                         }
@@ -7467,15 +5604,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Vinoteca"
-        "ProductCode" = "8:{3ADCB9C0-32D7-41ED-AA94-516EC6F30C85}"
-        "PackageCode" = "8:{C0ECB428-FC08-4228-825D-4C610CD256C5}"
+        "ProductCode" = "8:{00B99324-DC12-4611-9CB5-C53BAC713829}"
+        "PackageCode" = "8:{F4C1380C-22C6-42F8-894B-2415D5E5661A}"
         "UpgradeCode" = "8:{441A1579-1509-4DFD-8156-C955325622B3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:3.0.3"
+        "ProductVersion" = "8:3.0.4"
         "Manufacturer" = "8:Luis Software"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -7599,7 +5736,7 @@
             "Target" = "8:_82EF01459E7942CE848513CD789FA86C"
             "Folder" = "8:_9628F31737DA47E6BA2D60DF53E4D1C3"
             "WorkingFolder" = "8:_B9071D17C08048EA9616B28A01FBB207"
-            "Icon" = "8:_53D8C612CE4246749A273EB83766A66D"
+            "Icon" = "8:_11EC07DF2D644160B7523E1213E035AB"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F7D62EE0CBBA4842956F0DE7265161B3"
@@ -7613,7 +5750,7 @@
             "Target" = "8:_82EF01459E7942CE848513CD789FA86C"
             "Folder" = "8:_FFCF53A6C57848D3BD222F3538D4F17B"
             "WorkingFolder" = "8:_B9071D17C08048EA9616B28A01FBB207"
-            "Icon" = "8:_53D8C612CE4246749A273EB83766A66D"
+            "Icon" = "8:_11EC07DF2D644160B7523E1213E035AB"
             "Feature" = "8:"
             }
         }
